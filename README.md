@@ -1,7 +1,7 @@
 # reaction_time_
 One day I woke up to a thought - that I hadn't properly used arduino after 8th standard. So I decided to create this little game on arduino.
-With the help of Saurav, i could try and optimize it for time criticality and glitches.
 A simple arduino powered reaction time game using pushbuttons and LEDs.
+![20251017_220054](https://github.com/user-attachments/assets/4cd18e8c-ad24-42b9-9ff5-a2349143fffc)
 
 Made on a breadboard, It has total of 2 pushbuttons, 1 for each player and 1 blue LED that triggers the start of each round.
 As soon as the blue LED lights up, each player has to press thier button faster than the other.
@@ -22,3 +22,5 @@ Use unsigned long data types whenever working with delay() or millis(), micros()
 analogRead on unconnected pin makes up for a fairly good randomSeed for random() fxn.
 static variables dont change across different iterations of a loop.
 use while loop with millis() instead of delay() as delay() is a blocking function.
+
+YT Link for demo - https://youtu.be/G__0c7wmvuE
