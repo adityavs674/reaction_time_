@@ -1,5 +1,6 @@
 # reaction_time_
-One day I woke up to a thought - that I hadn't properly used arduino after 8th standard. So I decided to create this little game on arduino. 
+One day I woke up to a thought - that I hadn't properly used arduino after 8th standard. So I decided to create this little game on arduino.
+With the help of Saurav, i could try and optimize it for time criticality and glitches.
 A simple arduino powered reaction time game using pushbuttons and LEDs.
 
 Made on a breadboard, It has total of 2 pushbuttons, 1 for each player and 1 blue LED that triggers the start of each round.
